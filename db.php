@@ -1,7 +1,7 @@
 <?php
-$conn=mysqli_connect("localhost","sgc","sgc","product");
+$conn=mysqli_connect("localhost","sgc","sgc","sangeeth");
 if(!$conn)
 {
-	die("connection failed:");
+	die("connection failed");
 }
 ?>
